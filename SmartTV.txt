@@ -149,6 +149,18 @@ www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 
+# non verified but suspicious reuests
+internetat.tv
+lcstg1.samsungcloudsolution.net
+lcstg2.samsungcloudsolution.net
+
+# samsungcloudsolution.net //there are to many changes on the prefixes you my want toallow/whitelist cdn.samsungcloudsolution.com for the internet features on my samsung tvs tv (foxtel now, youtube, etc) https://www.reddit.com/r/pihole/comments/7qdzv4/pihole_blocks_regular_youtube_tv_app_traffic_not/dsp1hoc?utm_source=share&utm_medium=web2x
+
+otn.samsungcloudcdn.com
+apps.samsungcloudcdn
+ytimg.com
+giraffic.com
+
 #Samsung Europe (?)
 log-ingestion-eu.samsungacr.com
 
