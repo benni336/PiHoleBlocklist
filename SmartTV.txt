@@ -148,6 +148,10 @@ www.samsungotn.net
 www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
+tvdstv.api.watchmi.tv
+
+#Samsung Europe (?)
+log-ingestion-eu.samsungacr.com
 
 # HBBTV
 cdn.hbbtv.smartclip.net
