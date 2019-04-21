@@ -94,6 +94,7 @@ i-stream.pl
 infolink.pavv.co.k
 infolink.pavv.co.kr
 lcprd1.samsungcloudsolution.net
+lcprd2.samsungcloudsolution.net
 log-1.samsungacr.com
 log-2.samsungacr.com
 log-3.samsungacr.com
