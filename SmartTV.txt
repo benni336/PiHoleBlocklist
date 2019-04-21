@@ -148,7 +148,6 @@ www.samsungotn.net
 www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
-tvdstv.api.watchmi.tv
 
 #Samsung Europe (?)
 log-ingestion-eu.samsungacr.com
@@ -177,6 +176,7 @@ p-hbbtv.superrtl.de
 hbbtv.3sat.de
 
 # Other useless connections from Smart-TV
+tvdstv.api.watchmi.tv
 ad.71i.de
 api.nfl.com
 apicache.vudu.com
